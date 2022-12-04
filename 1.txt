@@ -1,0 +1,4 @@
+Noi dung 1
+
+Sua loi 1
+- lenh git
